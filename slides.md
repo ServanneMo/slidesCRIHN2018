@@ -58,18 +58,22 @@ source : Adrien Mondot, *Cinématique*
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/mondot2.jpg" -->
+<!-- .slide: class="hover"-->
 
+* Quelles sont les influences littéraires et culturelles qui déterminent l'imaginaire du code ?
+* En quoi le code informatique et son imaginaire influencent-ils le concept d'écriture ?
+* Vers une nouvelle poétique, forgée sur une revalorisation des pratiques "transgressives" ?
 
 source : Adrien Mondot, *Cinématique*
 
 <!-- .element: class="source" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/umbrico.jpg" -->
+<!-- .slide: data-background-image="img/MouvementAdrienMClaireB.jpg" -->
 
-## L'imaginaire du code dans le discours théorique : la métaphore génétique
+## L'imaginaire du code dans le discours théorique : <br>la métaphore génétique
 
-source : Penelope Umbrico, _Sunsets from Flickr_
+source : Claire M et Adrien B, _Le mouvement de l’air_
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -78,13 +82,17 @@ source : Penelope Umbrico, _Sunsets from Flickr_
 <!-- .slide: class="hover"-->
 
 
->il y a ce qu’écrit la machine, il y a ce qu’écrit le programmeur de cette machine, il y a ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible. (Bouchardon et Petit, 2018)
+>Il y a ce qu’écrit la machine, il y a ce qu’écrit le programmeur de cette machine, il y a ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible. (Bouchardon et Petit, 2017)
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+source : Corine Vionnet, _Photo Opportunities_
+
+<!-- .element: class="source" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/umbrico.jpg" -->
+<!-- .slide: data-background-image="img/umbrico.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
@@ -92,13 +100,17 @@ source : Penelope Umbrico, _Sunsets from Flickr_
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+source : Penelope Umbrico, _Sunsets from Flickr_
+
+<!-- .element: class="source" -->
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 <!-- .slide: data-background-image="img/girImagined.jpeg" data-background-size="contain"-->
 
-## La mythologie du code : une tentation posthumaniste et dystopique
+## Mythologie du code : <br>l'écriture du réel ?
 
-source :
+source : Lance Olsen *Girl Imagined by Chance* (2002)
 
 <!-- .element: class="source" -->
 
@@ -106,38 +118,44 @@ source :
 
 <!-- .slide: data-background-image="img/girImagined.jpeg" data-background-size="contain"-->
 
-
-source :
+source : Lance Olsen *Girl Imagined by Chance* (2002)
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
 <!-- .slide: data-background-image="img/LanceOlsenGirl193.jpeg" data-background-size="contain"-->
+<!-- .slide: class="hover" -->
 
-source :
+>« The unreal is exactly like the real, only more sincere » (p. 95)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+source : Lance Olsen *Girl Imagined by Chance* (2002, p. 193)
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
 
 <!-- .slide: data-background-image="img/LanceOlsenGirl267.jpeg" data-background-size="contain"-->
 
-source :
+
+source : Lance Olsen *Girl Imagined by Chance* (2002, p. 267)
 
 <!-- .element: class="source" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+<!-- .slide: data-background-image="img/LanceOlsenGirl267.jpeg" data-background-size="contain"-->
 
-## L'écriture comme un hack : la poétique anamorphique
+
+## L'écriture comme un hack : <br>la poétique anamorphique
 
 source :
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+<!-- .slide: data-background-image="img/anonMontage.png" -->
 
-source :
+
+source : Andrew Niccol, *Anon* (2018)
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -145,7 +163,7 @@ source :
 
 <!-- .slide: data-background-video="img/anamorphicFormat.mp4" -->
 
-source :
+source : The ontologist, *Video Room 1000*
 
 <!-- .element: class="source" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
