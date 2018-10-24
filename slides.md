@@ -142,12 +142,12 @@ source : Lance Olsen *Girl Imagined by Chance* (2002, p. 267)
 <!-- .element: class="source" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<!-- .slide: data-background-image="img/LanceOlsenGirl267.jpeg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/plagiezPlagiaires.jpg" data-background-size="contain"-->
 
 
 ## L'écriture comme un hack : <br>la poétique anamorphique
 
-source :
+source : Kenneth Goldsmith, *L'écriture sans écriture*, Jean Boîte éditions
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -158,6 +158,20 @@ source :
 source : Andrew Niccol, *Anon* (2018)
 
 <!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/plagiezPlagiaires.jpg" -->
+<!-- .slide: class="hover" -->
+
+>« How I make my way through this thicket of information —how I manage it, how I parse it, how I organize and distribute it— is what distinguishes my writing from yours »
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+source : Kenneth Goldsmith, *L'écriture sans écriture*, Jean Boîte éditions
+
+<!-- .element: class="source" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
@@ -166,12 +180,12 @@ source : Andrew Niccol, *Anon* (2018)
 source : The ontologist, *Video Room 1000*
 
 <!-- .element: class="source" -->
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/RondepierreAboveSuspicion.png" -->
+
+## Merci !
 
 source : Éric Rondepierre, *Above suspicion*
 
 <!-- .element: class="source" -->
-
-### **Merci !**
